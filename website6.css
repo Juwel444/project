@@ -1,0 +1,143 @@
+body {
+    margin: 0;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color: #fff;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+h5{
+    color: #FF136F ;
+}
+h3{
+    margin-left: 20px;
+}
+#slider img{
+   width:50%;
+   height: 600px;
+   padding-bottom: 120px;
+}
+#head{
+    background-color: #FF9C35;
+    font-weight:20px;
+    
+}
+header a{
+    color: black;
+    font-weight: 25px;
+    font-size: uppercase;
+    margin: 0;
+    
+}
+#head ul{
+    width: 600px;
+    float:right;
+}
+#head img{
+    padding: 12px;
+}
+#head ul li{
+    float: left;
+    list-style-type: none;
+    padding: 10px 15px;
+    line-height: 20px;
+    text-align: center;
+}
+#head ul li a{
+    text-decoration: none;
+}
+#new{
+    width: 100%;
+   align-items: center;
+ 
+}
+.catagori{
+  float: left;
+ 
+  width: 300px;
+  margin-left: 20px;
+ 
+}
+#new img{
+    float: right;
+ 
+  
+}
+.catagori h2{
+   float: left;
+   padding: 40px 0px;
+
+  
+
+}
+.f{
+    background: linear-gradient(rgb(218, 170, 13),rgb(186, 196, 178));
+    border-radius: 10px;
+    height: 158px;
+}
+.g{
+    background:  #FF136F;
+    border-radius: 10px;
+    height: 158px;
+}
+
+.h{
+    background: linear-gradient(rgb(29, 11, 199),rgb(158, 176, 192));
+    border-radius: 10px;
+    height: 158px;
+}
+
+#Shoes h6{
+    float: right;
+} 
+#Shoes{
+    padding-bottom: 80px;
+    padding-top: 80px;
+}
+#bag{
+    padding-bottom: 80px;
+
+}
+#foot{
+    padding-bottom: 80px;
+    padding-top: 80px;
+
+}
+
+#bag h6{
+    float: right;
+    margin-bottom: 60px;
+} 
+.button-buy-now{
+    padding:  9px 25px;
+    border: none;
+    background-color: #FF136F;
+    border-radius: 10px;
+}
+#foot{
+    background-color: #feeae9;;
+    display: inline-block;
+    width: auto;
+}
+form{
+    display: block;
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.col{
+    box-shadow: 10px 10px 10px;
+}
